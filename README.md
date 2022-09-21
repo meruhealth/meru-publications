@@ -1,1 +1,1 @@
-# meru-publications-public
+# meru-publications
